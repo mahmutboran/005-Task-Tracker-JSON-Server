@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Study React Pre-Class Notes",
+      "day": "Feb 5th at 2:30pm",
+      "isDone": false
+    },
+    {
+      "id": 2,
+      "text": "Feed the Dog",
+      "day": "Feb 6th at 1:30pm",
+      "isDone": true
+    },
+    {
+      "text": "Clean Room",
+      "day": "Feb 7th at 10:00pm",
+      "isDone": false,
+      "id": 4
+    },
+    {
+      "text": "Hello Günter",
+      "day": " vcxvbxcv",
+      "isDone": false,
+      "id": 5
+    },
+    {
+      "text": "fgfdgfd",
+      "day": " vcxvbxcv",
+      "isDone": true,
+      "id": 6
+    },
+    {
+      "text": "ffdgfgds",
+      "day": " vcxvbxcv vcxvbxcv vcxvbxcv vcxvbxcv vcxvbxcv vcxvbxcv vcxvbxcv vcxvbxcv",
+      "isDone": true,
+      "id": 7
+    }
+  ]
+}
